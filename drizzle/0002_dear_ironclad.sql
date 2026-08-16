@@ -1,0 +1,1 @@
+ALTER TABLE `lab_accounts` ADD `passwordHash` varchar(128) NOT NULL;
